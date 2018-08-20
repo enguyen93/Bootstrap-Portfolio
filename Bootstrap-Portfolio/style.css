@@ -1,16 +1,21 @@
 html{
     min-height: 100%;
     margin: 0;
+    background: url("light_grey_floral_motif.png");
 }
 body{
-    
+    background: url("light_grey_floral_motif.png");
 }
 .top-container{
     border-bottom: 2px solid #cccccc;
     margin-bottom: 4%;
 }
 .background-container{
-    background: url("light_grey_floral_motif.png");
+    height: 90%;
+}
+.container{
+    background-color: #ffffff;
+    padding: 25px;
 }
 h1{
     background: #4aaaa5;
@@ -18,21 +23,33 @@ h1{
     color: #ffffff;
     padding: 10px;
     font-size: 170%;
+    margin: 0;
 }
 h2{
     color: #4aaaa5;
+    text-align: center;
 }
 .about-row{
     border-bottom: 2px solid #cccccc;
     margin-bottom: 3px;
 }
+.about-col{
+    background-color: #ffffff;
+}
+.content-col{
+    background-color: #ffffff;
+}
+img{
+    margin-right: 15px;
+}
+
 .sticky-footer{
     font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
     background: #666666;
     color: #777777;
     text-align: center;
     height: 20px;
-    padding: 15px;
+    padding: 15px 0px;
     border-top: 5px solid #4aaaa5;
     bottom: 0;
     position: absolute;
