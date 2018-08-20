@@ -9,6 +9,7 @@ body{
 .top-container{
     border-bottom: 2px solid #cccccc;
     margin-bottom: 4%;
+    background-color: #ffffff;
 }
 .background-container{
     height: 90%;
