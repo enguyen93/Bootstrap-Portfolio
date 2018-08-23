@@ -63,3 +63,7 @@ img{
     max-width: 200px;
     position: relative;
 }
+.btn-primary {
+    color: #ffffff;
+    background: #4aaaa5;
+}
