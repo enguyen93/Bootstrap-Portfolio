@@ -64,3 +64,10 @@ img{
     max-width: 200px;
     position: relative;
 }
+.border-top{
+    border-top: 7px solid !important;
+    border-top-color: #4aaaa5 !important;
+}
+::-webkit-scrollbar { 
+    display: none; 
+}
