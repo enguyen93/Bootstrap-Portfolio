@@ -71,3 +71,6 @@ img{
 ::-webkit-scrollbar { 
     display: none; 
 }
+.btn-secondary {
+    background-color: #007bff;
+}
